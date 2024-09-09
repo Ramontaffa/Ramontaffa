@@ -1,7 +1,7 @@
 ## Hey! I'm Ramon Taffarel 👋
 
-- 🌱 I’m currently learning more about React.js
-- 🔭 I’m always open to new challenges
+-  I’m currently learning more about React.js
+-  I’m always open to new challenges
 <br>
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramontaffa&layout=compact&langs_count=16&theme=nightowl" alt="Top Languages"/>
