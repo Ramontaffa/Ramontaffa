@@ -1,6 +1,6 @@
 ## Hey! I'm Ramon Taffarel 👋
 
--  I’m currently learning more about React.js
+-  I’m currently learning more about React Native
 -  I’m always open to new challenges
 <br>
 <div align="center">
